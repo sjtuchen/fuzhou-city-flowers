@@ -4,10 +4,9 @@
 
 ## 在线浏览
 
-- [打开单文件网页](index.html)
-- [阅读设计感想](抚州市双市花_设计感想.md)
-
-启用 GitHub Pages 后，可将上方链接替换为 Pages 地址。
+- [在线网页](https://sjtuchen.github.io/fuzhou-city-flowers/)
+- [GitHub 仓库](https://github.com/sjtuchen/fuzhou-city-flowers)
+- [阅读设计感想](https://sjtuchen.github.io/fuzhou-city-flowers/%E6%8A%9A%E5%B7%9E%E5%B8%82%E5%8F%8C%E5%B8%82%E8%8A%B1_%E8%AE%BE%E8%AE%A1%E6%84%9F%E6%83%B3.md)
 
 ## 网页内容
 
